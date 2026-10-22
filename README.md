@@ -1,5 +1,5 @@
 
-# 📚 Learner-Course-Purchase-Analysis-SQL-Project
+# 📚 Online-Learner-Course-Purchase-Analysis-SQL-Project
 
 ## 📌 Project Overview
 
